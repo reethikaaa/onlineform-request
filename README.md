@@ -33,8 +33,4 @@ Digitalize and streamline the college form submission process.
 Reduce manual paperwork and administrative workload.
 Provide a centralized platform for managing student requests efficiently.
 
-
-🤝 Contribute
-We welcome contributions! Feel free to submit issues, feature requests, or pull requests to enhance the platform.
-
 📌 Start filling forms the smart way with our Online Form Request System! 🎓✨
